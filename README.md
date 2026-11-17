@@ -1,6 +1,6 @@
 # DORMITORATION — Smart Door Unit Firmware (ESP32)
 
-ESP32 firmware for the **Dormitory Monitor Operation System (DORMITORATION)** smart door lock unit at TVETMARA Lumut. This edge device scans student QR codes, verifies room allocation against the Cloudflare Workers + D1 backend over HTTPS, displays real-time status on an OLED screen, and controls a fail-safe 12V electromagnetic lock.
+ESP32 firmware for the **Dormitory Monitor Operation System (DORMITORATION)** smart door lock unit at Institute Hostel. This edge device scans student QR codes, verifies room allocation against the Cloudflare Workers + D1 backend over HTTPS, displays real-time status on an OLED screen, and controls a fail-safe 12V electromagnetic lock.
 
 - **Live Web Application:** [dormitoration.syamsulock0457.workers.dev](https://dormitoration.syamsulock0457.workers.dev/)
 - **Web Platform & Backend Repository:** [GAMERXTAKJELAS/dormitoration](https://github.com/GAMERXTAKJELAS/dormitoration)
